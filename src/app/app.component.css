@@ -1,0 +1,19 @@
+div {
+    text-align: center;
+    font-size: x-large;
+    color: rgb(118, 119, 118);
+}
+
+img {
+    display: block;
+    width: 25%;
+    margin: 0 auto;
+}
+
+.error-output {
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: italic;
+    ;
+    color: maroon;
+}
